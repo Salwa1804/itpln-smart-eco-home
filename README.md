@@ -1,5 +1,5 @@
 # ITPLN Smart Eco-Home Controller
-Aplikasi mobile interaktif berbasis **Flutter** untuk memantau dan mengontrol beban listrik rumah secara visual. Dibuat untuk **Tugas 4 – Pemrograman Mobile** dengan tema **SDG 7: Energi Bersih dan Terjangkau** (ketenagalistrikan dan efisiensi energi).
+Aplikasi mobile interaktif berbasis Flutter untuk memantau dan mengontrol beban listrik rumah secara visual. Dengan tema **SDG 7: Energi Bersih dan Terjangkau** (ketenagalistrikan dan efisiensi energi).
 
 ## Latar Belakang
 Pemakaian listrik rumah tangga yang tidak terkontrol menyebabkan pemborosan energi, tagihan membengkak, dan emisi karbon lebih tinggi. SDG 7 menargetkan energi yang bersih, terjangkau, dan berkelanjutan, termasuk peningkatan efisiensi energi. Aplikasi ini mensimulasikan pengendali listrik rumah pintar (smart home) agar pengguna dapat melihat dampak tiap perangkat terhadap total daya, biaya, dan emisi, lalu mengaturnya hanya dengan gestur sentuhan.
